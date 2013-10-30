@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Content-Type: text/xml
+Last-Modified: Wed, 30 Oct 2013 12:59:01 GMT
+Accept-Ranges: bytes
+ETag: "206519ce6fd5ce1:0"
+Server: Microsoft-IIS/7.0
+Date: Wed, 30 Oct 2013 13:00:01 GMT
+Content-Length: 241726
+
