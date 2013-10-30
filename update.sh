@@ -17,3 +17,6 @@ echo "GeoRSS converted to GeoJSON and stored in $TIMESTAMP.json"
 git add $TIMESTAMP*
 git commit -m "$TIMESTAMP - Updated GeoRSS, headers and GeoJSON"
 git push origin master
+
+echo "Git committed and pushed"
+
